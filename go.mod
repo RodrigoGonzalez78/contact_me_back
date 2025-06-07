@@ -1,6 +1,6 @@
 module github.com/RodrigoGonzalez78/contact_me_back
 
-go 1.24.2
+go 1.24.0
 
 require github.com/gin-gonic/gin v1.10.1
 
