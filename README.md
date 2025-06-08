@@ -1,10 +1,5 @@
 # API de Contactos - Documentación de Endpoints
 
-## Base URL
-```
-http://localhost:8080
-```
-
 ## Endpoints
 
 ### 1. Health Check
